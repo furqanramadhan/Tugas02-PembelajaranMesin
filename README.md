@@ -6,6 +6,7 @@ NPM  : 2108107010013
 Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin:
 
 https://medium.com/@youness.habach/support-vector-machines-svm-explanation-mini-project-9d4b4962be52
+
 Anda diminta untuk menggunakan SVM dalam menyelesaikan 2 kasus yaitu Klasifikasi dan Regresi dengan menggunakan dataset yang tidak sama dengan dataset yang ada pada referensi.
 
 Tugas dikumpulkan melalui Repository Github yang berisi:
@@ -19,19 +20,18 @@ Tugas 02 menjelaskan tentang membangun model machine learning dengan Supervised 
 
 1. Support Vector Machine
 
-**Field** | **Keterangan** |
---- | --- | ---
-`ID` | Item data |
-`Clump` | Clump thickness |
-`UnifSize` | Uniformity of cell size |
-`UnifShape` | Uniformity of cell shape |
-`MargAdh` | Marginal adhesion |
-`SingEpiSize` | Single epithelial cell size |
-`BareNuc` | Single epithelial cell size |
-`BlandChrom` | Bare nuclei |
-`NormNucl` | Normal nucleoli |
-`Mit` | Mitoses |
-
+| **Field**         | **Keterangan**                |
+|:------------------|:-----------------------------:|
+| `ID`              | Item data                     |
+| `Clump`           | Clump thickness               |
+| `UnifSize`        | Uniformity of cell size       | 
+| `UnifShape`       | Uniformity of cell shape      | 
+| `MargAdh`         | Marginal adhesion             | 
+| `SingEpiSize`     | Single epithelial cell size   | 
+| `BareNuc`         | Bare nuclei                   | 
+| `BlandChrom`      | Bland chromatin               | 
+| `NormNucl`        | Normal nucleoli               | 
+| `Mit`             | Mitoses                       | 
 
 Support Vector Machine : Dataset berisikan tentang sample darah dari beberapa ratus catatan sel manusia, yang masing-masing berisi nilai dari sekumpulan karakteristik sel. Terdapat atribut dengan keterangan sebagai berikut, 
 ID, Clump thickness
