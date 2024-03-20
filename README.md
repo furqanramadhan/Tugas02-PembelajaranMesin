@@ -19,6 +19,7 @@ Tugas dikumpulkan melalui Repository Github yang berisi:
 Tugas 02 menjelaskan tentang membangun model machine learning dengan Supervised Learning yaitu algoritma Support Vector Machine (SVM) dan Support Vector Regression (SVR), dimana label sudah diketahui dan bagaimana membangun dan melatih model berdasarkan fitur yang ada. Juga diperhatikan akurasi dan nilai koefisien matrix, serta visualisasi plot.
 
 1. Support Vector Machine
+
 Dataset berisikan tentang sample darah dari beberapa ratus catatan sel manusia, yang masing-masing berisi nilai dari sekumpulan karakteristik sel. Terdapat atribut dengan keterangan sebagai berikut
 
 | **Field**         | **Keterangan**                |
@@ -40,6 +41,7 @@ Label yang akan dijadikan target adalah Class, dimana class 2 adalah sel kanker 
 
 
 2. Support Vector Regression
+
 Dataset berisikan tentang fitur fitur yang mengkalkulasikan sebuah konstruksi bangunan dengan kekuatan Concrete Strength. Adapun variabel independen nya adalah Cement dan variabel dependennya adalah 'Strength'. Kita ingin melihat seberapa besar korelasi antara keduanya dengan atribut sebagai berikut
 
 
